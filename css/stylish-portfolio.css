@@ -181,6 +181,7 @@ hr.small {
 .img-about {
     border-radius: 50%;
     padding: 30px;
+
 }
 
 
@@ -333,7 +334,7 @@ footer {
 
 .list-inline i {
     color: #151515;
-    font-size: 90px;
+    font-size: 50px;
 }
 
 #to-top {
